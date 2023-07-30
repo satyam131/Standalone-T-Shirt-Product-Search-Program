@@ -30,4 +30,8 @@ PROJECT SCREENSHOT :-
 ---------------------
 <img width="409" alt="t-shirt data searching on console" src="https://github.com/satyam131/Standalone-T-Shirt-Product-Search-Program/assets/73646662/bf09d34d-8508-4688-8596-e161e698eb22">
 
+TECHNOLOGY USED :-
+------------------
+JAVA
+
 
